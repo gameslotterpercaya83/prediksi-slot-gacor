@@ -1,0 +1,18 @@
+{
+  "name": "prediksi-slot-gacor",
+  "main": "./lib/prediksi-slot-gacor",
+  "version": "1.0.0",
+  "description": "Judi Slot Hasil Hitungan Prediksi Slot Gacor Deposit Pulsa Tanpa Potongan",
+  "keywords": ["agen toto play","habanero slot","slot online terbaik","habanero slot","spade gaming","bandar slot","bandar slot online"],
+
+  "activationCommands": {
+    "atom-workspace": "prediksi-slot-gacor:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya83/prediksi-slot-gacor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

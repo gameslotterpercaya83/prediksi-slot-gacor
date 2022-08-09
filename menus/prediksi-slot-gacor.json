@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle prediksi-slot-gacor",
+        "command": "prediksi-slot-gacor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "prediksi-slot-gacor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "prediksi-slot-gacor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
