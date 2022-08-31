@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Daftar Slot Apk Hasil Hitungan Prediksi Slot Gacor Deposit Pulsa Xl](https://atom.io/packages/prediksi-slot-gacor)
-## :star: klik untuk [Daftar Sekarang](https://agentotoplay.net/register/) :cake: <<< 
-## :radio_button: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/) :snowflake: <<< 
-## :arrow_forward: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/) :snowflake: <<< 
+## :star: klik untuk [Daftar Sekarang](https://golinkurl.github.io/register/) :cake: <<< 
+## :radio_button: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/) :snowflake: <<< 
+## :arrow_forward: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/) :snowflake: <<< 
 
 ## Informasi Situs /Server Kami : 
 
